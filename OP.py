@@ -1,0 +1,5 @@
+U,V=input().split()
+R=int(U)
+T=int(V)
+I=pow(R,T)
+print(I)
